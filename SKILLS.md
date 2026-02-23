@@ -1,6 +1,12 @@
 ---
 name: minions-test-reports
-description: Aggregated results, regression diffs, quality trends, and coverage maps
+id: OC-0167
+version: 1.0.0
+description: "Aggregated results, regression diffs, quality trends, and coverage maps"
+category: dev-tools
+subcategory: testing
+tags: ["minion", "dev-tools", "testing"]
+comments:
 ---
 
 # minions-test-reports — Agent Skills
