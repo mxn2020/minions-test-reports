@@ -6,3 +6,4 @@ description: "Aggregated results, regression diffs, quality trends, and coverage
 priority: high
 deploy_url: null
 tags: null
+category: minion-toolbox
