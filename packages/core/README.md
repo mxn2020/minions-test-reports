@@ -1,3 +1,5 @@
+![CI](https://github.com/mxn2020/@minions-test-reports/sdk/actions/workflows/ci.yml/badge.svg) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 # @minions-test-reports/sdk
 
 Aggregated results, regression diffs, quality trends, and coverage maps

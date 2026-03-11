@@ -1,0 +1,8 @@
+name: "@minions-test-reports/cli"
+project_scope: child
+child_type: cli
+parent_project: minions-test-reports-workspace
+description: "CLI for minions-test-reports — Aggregated results, regression diffs, quality trends, and coverage maps"
+priority: high
+deploy_url: null
+tags: null
